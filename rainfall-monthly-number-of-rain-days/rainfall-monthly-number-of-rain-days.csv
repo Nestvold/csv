@@ -1,5 +1,5 @@
-month,no_of_rainy_days, Test_1, Test_2
-1982-01,10
+month,no_of_rainy_days,test_1,test_2
+1982-01,10, 2, 2
 1982-02,5
 1982-03,11
 1982-04,14
